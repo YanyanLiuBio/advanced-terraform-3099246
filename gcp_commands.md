@@ -8,6 +8,8 @@ These gcloud commands are used throughout the course:
 gcloud services enable iam.googleapis.com
 
 gcloud services enable cloudresourcemanager.googleapis.com
+### above does not work, use below
+gcloud services enable compute.googleapis.com --project advanced-terraform-489819
 
 
 ## 04_03_Terraform_Cloud_Setup
